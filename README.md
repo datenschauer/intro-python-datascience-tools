@@ -6,7 +6,7 @@ In diesem zweiteiligen Kurs sollen die Python Module [Pandas](https://pandas.pyd
 
 ## Installation der nötigen Tools
 
-Was brauchen Sie für den Kurs? Nun zu allerst müssen Sie auf dem Rechner, auf dem Sie arbeiten wollen, Python und die nötigen, oben genannten, Bibliotheken installieren. Sehr einfach geht diese mit der Distribution [Anaconda](https://anaconda.org/) die Python in der Version 3.9, sowie obige Pakete gleich mitinstalliert. Mit weiteren Tools zum Schreiben von Code, wie z.B. den Jupyter Notebooks haben Sie damit alles, was Sie brauchen und können so direkt starten.
+Was brauchen Sie für den Kurs? Nun zu allerst müssen Sie auf dem Rechner, auf dem Sie arbeiten wollen, Python und die nötigen, oben genannten, Bibliotheken installieren. Sehr einfach geht diese mit der Distribution [Anaconda](https://www.anaconda.com/download) die Python in der Version 3.10, sowie obige Pakete gleich mitinstalliert. Mit weiteren Tools zum Schreiben von Code, wie z.B. den Jupyter Notebooks haben Sie damit alles, was Sie brauchen und können so direkt starten.
 
 Laden Sie sich dazu *Anaconda* von der [Seite des Herstellers](https://www.anaconda.com/products/distribution) für Ihr Betriebssystem herunter und installieren Sie dies.
 
