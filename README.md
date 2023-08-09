@@ -52,3 +52,7 @@ Dies ist leicht über das Kommandozeilenwerkzeug `conda` zu bewerkstelligen.
 - Beenden Sie und starten Sie Jupyter erneut.
 - Nun können Sie sich bei einem laufenden Notebook über einen neuen Button das Inhaltsverzeichnis anzeigen lassen.
 - Weitere Infos dazu finden Sie [hier](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/toc2/README.html).
+
+## Einstieg in den Kurs
+
+Die zwei Teile des Kurses finden Sie im Ordner **analysis**.
